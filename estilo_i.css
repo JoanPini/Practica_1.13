@@ -1,0 +1,45 @@
+body
+{
+    background-color: lightsalmon;
+}
+h1.titulo
+{
+    color: maroon;
+    border-bottom: lightgray solid;
+    text-align: center;
+}
+
+p.izquierda
+{
+    margin: 5%;
+    text-align: left;
+}
+
+img.carta
+{
+    width: 250px;
+    height: 75px;
+}
+
+p.centrado
+{
+    text-align: center;
+}
+
+img.cafe
+{
+    width: 200px;
+    height: 200px;
+}
+
+p.derecha
+{
+    text-align : right;
+    margin: 10%;
+}
+
+img.cont
+{
+    width: 150px;
+    height: 150px;
+}

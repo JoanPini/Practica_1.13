@@ -1,0 +1,17 @@
+h1.titulo
+{
+    color: maroon;
+    text-align: center;
+}
+
+body
+ {
+     background-color: lightsalmon;
+ }
+
+ p.texto
+ {
+     color: darkred;     
+     text-align: justify;
+     margin: 3%;
+ }
